@@ -1,4 +1,4 @@
-01.Problem:Square area
+01.Problem:Square Area
 This code demonstrates how we can calculate the square area by the given length of the side.
 
 02.Problem:Converting Inches into Centimeters
