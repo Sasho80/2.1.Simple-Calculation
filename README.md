@@ -6,3 +6,8 @@ Let's write a program that reads a floating-point number in inches and converts 
 
 03.Problem:Greeting by Name
 Let's write a program that asks the user for their name and salutes them with the text "Hello, <name>!"
+
+04.Problem:Concatenating Text and Numbers
+Besides for summing up numbers, the operator + is also used for joining pieces of text (concatenation 
+of two strings one after another). In programming, joining two pieces of text is called "concatenation". 
+Here is how we can concatenate a text with a number by the + operator.
