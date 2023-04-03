@@ -14,5 +14,5 @@ Here is how we can concatenate a text with a number by the + operator.
 
 05.Example: Calculating Trapezoid Area
 Let's write a program that inputs the lengths of the two bases of a trapezoid and its height (one 
-floating point number per line) and calculates the area of the trapezoidby the standard math formula:
+floating point number per line) and calculates the area of the trapezoid by the standard math formula:
 area=(b1+b1)*h/2.0.
