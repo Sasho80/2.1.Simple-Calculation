@@ -16,3 +16,9 @@ Here is how we can concatenate a text with a number by the + operator.
 Let's write a program that inputs the lengths of the two bases of a trapezoid and its height (one 
 floating point number per line) and calculates the area of the trapezoid by the standard math formula:
 area=(b1+b1)*h/2.0.
+
+Example: Circle Area and Perimeter
+Let's write a program that calculates a circle area and perimeter by reading its radius r. Formulas:
+• Area = π * r * r
+• Perimeter = 2 * π * r
+• π ≈ 3.14159265358979323846…
