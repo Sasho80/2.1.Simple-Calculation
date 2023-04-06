@@ -36,3 +36,20 @@ both sides.
 Write a program that reads from the console a side and height of a triangle and calculates its area. 
 Use the formula for triangle area: area = a * h / 2. Round the result to 2 digits after the decimal point 
 using fixed << setprecision(2),by including the library <iomanip>).
+  
+Sample Input and Output   
+Input Output 
+20 
+30   Triangle area = 300 
+  
+Input Output 
+15
+35   Triangle area = 262.5
+ 
+Input Output 
+7.75 
+8.45 Triangle area = 32.74
+  
+Input Output 
+1.23456 
+4.56789 Triangle area = 2.82  
