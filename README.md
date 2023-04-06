@@ -31,3 +31,8 @@ x from the bigger x, we will obtain the length of the rectangle.
 Identically, if we subtract the smaller y from the bigger y, we 
 will obtain the height of the rectangle. What is left is to multiply 
 both sides.
+
+08.Problem: Triangle Area
+Write a program that reads from the console a side and height of a triangle and calculates its area. 
+Use the formula for triangle area: area = a * h / 2. Round the result to 2 digits after the decimal point 
+using fixed << setprecision(2),by including the library <iomanip>).
