@@ -38,18 +38,13 @@ Use the formula for triangle area: area = a * h / 2. Round the result to 2 digit
 using fixed << setprecision(2),by including the library <iomanip>).
   
 Sample Input and Output   
-Input Output 
-20 
-30   Triangle area = 300 
+Input Output              Input Output                 Input Output                 Input   Output 
+20                        15                           7.75                         1.23456
+30   Triangle area = 300  35    Triangle area = 262.5  8.45  Triangle area = 32.74  1.23456 Triangle area = 2.82  
   
-Input Output 
-15
-35   Triangle area = 262.5
+
  
-Input Output 
-7.75 
-8.45 Triangle area = 32.74
+
+
   
-Input Output 
-1.23456 
-4.56789 Triangle area = 2.82  
+
