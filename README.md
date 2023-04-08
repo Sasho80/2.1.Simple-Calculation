@@ -54,10 +54,10 @@ Input Output Input Output Input Output Input Output
 10.Problem: Converter – from Radians to Degrees
 Write a program, that reads an angle in radians (rad) and converts it to degrees (deg). Look for a 
 proper formula on the Internet. The number π in C# programs is available through Math.PI. Round 
-the result to the nearest integer using the Math.Round(…) method.
-Sample Input and Output
-Input Output 
- 
+the result to the nearest integer using the function <cmath>,which is located in
+the <cmath> library.
+  
+Sample Input and Output 
 Input  Output Input  Output 
 3.1416 180    0.7854 45 
 6.2832 360    0.5236 30
