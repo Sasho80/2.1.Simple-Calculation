@@ -62,4 +62,14 @@ Input  Output Input  Output
 3.1416 180    0.7854 45 
 6.2832 360    0.5236 30
   
+11.Problem: Converter – USD to BGN
+Write a program for conversion of US dollars (USD) into Bulgarian levs (BGN). Round the result to 2 
+digits after the decimal point, like it is shown at the examples below. Use a fixed rate between a dollar
+(USD) and levs (BGN): 1 USD = 1.79549 BGN.
+ 
+Sample Input and Output
+Input Output    Input Output     Input Output 
+20    35.91 BGN 100   179.55 BGN 12.5  22.44 BGN
+  
+  
 
