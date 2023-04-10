@@ -71,5 +71,17 @@ Sample Input and Output
 Input Output    Input Output     Input Output 
 20    35.91 BGN 100   179.55 BGN 12.5  22.44 BGN
   
-  
+12.Problem: * Currency Converter
+Write a program for conversion of money from one currency into another. It has to support the 
+following currencies: BGN, USD, EUR, GBP. Use the following fixed currency rates:
+Rate USD EUR GBP 
+1 BGN 1.79549 1.95583 2.53405
+The input is sum for conversion, input currency and output currency. The output is one number – the 
+converted value of the above currency rates, rounded 2 digits after the decimal point.
+Sample Input and Output
+Input Output    Input Output    Input    Output     Input  Output
+20    35.91 BGN  100   51.13EUR 12.35    9.53 GBP   150.35 138.02 EUR
+USD              EUR            EUR                 USD
+BGN              BGN            GBP                 EUR
+ 
 
